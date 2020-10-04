@@ -10,6 +10,11 @@ Anjali Shivani Reddy Tadisina,
 Bhuvaneshwari Kashi,
 Rachakonda Venkata Kaushik
 
+# Youtube link:
+https://www.youtube.com/watch?v=Mk1BWyuXG44&t=5s
+
+
+
 
 We have lots of complex data and information available regarding numerous astronomical objects in platforms such as NASA Astronomical Virtual Observatories (NAVO ), Aladin Sky Atlas, Treasure Map, SkyView etc, Many of these platforms needs complex and specific information which would be accessible only by astronomers, astrophysicists, researchers It becomes difficult for an ordinary citizen to understand these data.So, we have attempted to create a platform where everyone from a common person with no or less astronomy background to highly qualified researchers and astronomers can access and understand the data quickly and easily .
 
@@ -18,3 +23,5 @@ We have created a website that can help every citizen from an interested common 
 We have created an intresting and interactive which consumes less time to for a user to explore.
 
 the data collected from NAVO and  Aladin Sky Atlas was useful in classifing the astrophysical objects especially the main targets  according to the satelites and telescopes .
+
+Website link: https://app.site123.com/?w=4311922
